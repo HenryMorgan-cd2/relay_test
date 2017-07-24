@@ -21,7 +21,7 @@ gem 'clearance'
 gem 'graphql', '~> 1.0.0'
 gem 'graphiql-rails'
 
-gem 'react_on_rails'
+gem 'react-rails'
 
 
 
